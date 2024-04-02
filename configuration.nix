@@ -84,6 +84,8 @@
     util-linux
     openssl
     iftop
+    alejandra
+    libnotify
     cointop
   ];
   
